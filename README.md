@@ -1,6 +1,6 @@
-# rustfetch
+# corfetch
 Basic command-line tool for displaying system info/specs, written in rust. Inspired by neofetch
 
-NOTE: I have learnt of the existence of another project also called "rustfetch" that does the exact same thing this does, but better, thus i will change the name shortly
+"cor" stands for corrosion, it was originally called "rustfetch" but there was already a similar tool with the same name
 
-![image](https://user-images.githubusercontent.com/99992055/188285206-c77cbc7c-c2f0-47e0-a77c-3a9254a4eb83.png)
+![image](https://user-images.githubusercontent.com/99992055/188288354-a8b58f91-1497-4fab-abd8-35c3a50fa6b8.png)
